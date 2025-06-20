@@ -29,16 +29,16 @@ In this project, I sought to answer several key business questions:
 
 
 **1. Total Profit by Product Sub-Category**
-![Question1](images/Question1.png)
+![QuestionNO1](images/QuestionNO1.png)
 
 **2. Total Units Sold by Product Sub-Category**
-![Question2](images/Question2.png)
+![QuestionNO2](images/QuestionNO2.png)
 
 **3. Top 10 Cities by Total Sales**
-![Question3](images/Question3.png)
+![QuestionNO3](images/QuestionNO3.png)
 
 **4. Monthly Sales Trend (2014-2017)**
-![Question4](images/Question4.png)
+![QuestionNO4](images/QuestionNO4.png)
 
 ---
 
