@@ -1,5 +1,3 @@
-# data-analysis-superstore
-
 # Superstore Sales Data Analysis
 
 ## Project Overview
